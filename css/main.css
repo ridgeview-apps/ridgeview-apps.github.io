@@ -1,0 +1,74 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.logo-container {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-color: #212121;
+}
+
+.hero-unit {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.logo-header-small {
+	width:40px;
+	height:40px;
+}
+
+.logo-header-text {
+    margin-left: 50px;
+}
+
+.carousel-background {
+    background-color: #ddeeee;
+}
+
+.app-carousel {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.summary-appstore-link {
+    margin-top:20px;
+}
+
+.inner-item {
+    text-align: center;
+    img { margin: 0 auto;}
+}
+
+.footer-text {
+    font-size: 10px;
+    color: #999;
+}
+
+.privacy-policy li {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.privacy-policy p {
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+/*margin-top:15px;margin-right:10px;*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
