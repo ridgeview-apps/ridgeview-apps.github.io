@@ -2,5 +2,5 @@
     "id": "21158f6d-c442-4419-8e80-cbc75ebf573a",
     "status": "outage",
     "message": "Live tube arrival information is currently unavailable.",
-    "detail": "Due to an ongoing TFL Cyber security incident, live tube arrival information has been unavailable throughout the app since 1 Sep 2024. We plan to restore this feature ASAP once TFL has fixed the issue. For more details, please check the [TFL web site](https://tfl.gov.uk/campaign/cyber-security-incident)."
+    "detail": "Due to an ongoing TFL Cyber security incident, live tube arrival information has been unavailable throughout the app since 1 Sep 2024. We plan to restore this feature once TFL has fixed the issue. For more details, please check the [TFL web site](https://tfl.gov.uk/campaign/cyber-security-incident)."
 }
