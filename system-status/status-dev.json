@@ -1,6 +1,6 @@
 {
-    "id": "dd78416e-46b3-439f-aa23-7a9dd8181400",
+    "id": "f3218459-d76a-4959-bef2-1371ca705e30",
     "status": "outage",
-    "message": "Data issues reported",
-    "detail": "We are aware some customers are experiencing problems with line status data. Please [update the app](https://apps.apple.com/gb/app/tube-service/id1540626286) to resolve this. Apologies for the inconvenience caused."
+    "message": "If you are having problems seeing the latest line status, please [update the app](https://apps.apple.com/gb/app/tube-service/id1540626286).",
+    "detail": "This was caused by the recent change to TFL overground lines (6 new lines have been added). Please [update the app](https://apps.apple.com/gb/app/tube-service/id1540626286) to resolve this. Apologies for the inconvenience caused."
 }
